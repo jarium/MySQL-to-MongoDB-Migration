@@ -55,4 +55,4 @@ as my table name."""
 """On this example of migration from MySQL to Mongodb, i used 'testdatabase' as my database name and 'testtable2'
 as my table name."""
 
-transfer_table_mysql_to_mongo('testdatabase','testtable2','testdatabase','testtable2')
+#transfer_table_mysql_to_mongo('testdatabase','testtable2','testdatabase','testtable2')
